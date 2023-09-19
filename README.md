@@ -9,11 +9,11 @@ Cree este repositorio para poder realizar practicas de trabajo con git y asi apr
 
 ## Styling text
 
-** Bold text **
-* * This text is italicized * *
-*** Some bold and important text ***
+**Bold text**
+* *This text is italicized* *
+***Some bold and important text***
 This is a <sub>subscript</sub>text
-~~ forget this text ~~
+~~forget this text~~
 
 ## Quoting text
 
@@ -34,7 +34,11 @@ git commit -m
 ```
 
 ## Supported color models
-The backgroun color is `#fff` for light mode and `#000000` for dark mode.
+The backgroun color is `#ffffff` for light mode and `#000000` for dark mode.
+examples:
+- `#0969DA`
+- `rgb(9, 105, 218)`
+- `hsl(212, 92%, 45%)`
 
 ## Links
 This site was built using [GitHub Pages](https://pages.github.com/).
