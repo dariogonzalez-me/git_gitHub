@@ -9,11 +9,11 @@ Cree este repositorio para poder realizar practicas de trabajo con git y asi apr
 
 ## Styling text
 
-**Bold text**
-* *This text is italicized* *
-***Some bold and important text***
-This is a <sub>subscript</sub>text
-~~forget this text~~
+**Bold text.**<br>
+*This text is italicized.*<br>
+***Some bold and important text.***<br>
+This is a <sub>subscript</sub>text.<br>
+~~forget this text.~~
 
 ## Quoting text
 
