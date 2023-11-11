@@ -24,11 +24,22 @@ ul{
 	display: flex;
 	justify-content: space-between;
 }
-.navbar, li, a{
-	text-decoration: none;
-	list-style: none;
-	text-transform: capitalize;
+
+li, a{
 	color: aqua;
-	font-size: 19px;
+	list-style: none;
+	list-style: none;
+	text-decoration: none;
+
+}
+
+.navbar li a{
+	text-transform: capitalize;
+ 	font-size: 19px;
 	margin-right: 7px;
+}
+
+
+article{
+	margin: 150px;
 }
