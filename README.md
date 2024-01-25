@@ -1,7 +1,7 @@
 # git_gitHub
 ## Practicas de curso de Git y Github
 
-Cree este repositorio para poder realizar practicas de trabajo con git y asi aprender:
+Cree este repositorio para poder realizar practicas de trabajo con git y asi conocer:
 
 - Conceptos basicos.
 - Clonar un repositorio.
